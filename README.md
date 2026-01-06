@@ -1,5 +1,24 @@
-# Skrapforhandler register
-Skrapforhandler register som er kodet med objektorientert java programmering, som kobles opp mot database med sql for å hente ut informasjonen om bøkene.
+# Skrapforhandler Register
+
+Et registreringssystem for skrapforhandlere utviklet som del av et emne ved Høyskolen Kristiania.
+
+## Om prosjektet
+Applikasjonen lar brukeren registrere, hente, oppdatere og slette informasjon om skrapforhandlere. Data lagres i en SQL-database og hentes ut via JDBC.
+
+## Teknologier
+- Java (objektorientert)
+- SQL / MySQL
+- JDBC for databasetilkobling
+
+## Funksjonalitet
+- Legge til nye skrapforhandlere
+- Vise registrerte forhandlere
+- Oppdatere eksisterende oppføringer
+- Slette oppføringer fra databasen
+
+## Struktur
+Prosjektet følger objektorienterte prinsipper med separate klasser for modeller, databasehåndtering og brukergrensesnitt.
+
 
 Innkapsling
 I løsningen min har jeg brukt innkapsling gjennom hele systemet. I Vehicle klassen har jeg
