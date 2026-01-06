@@ -1,9 +1,9 @@
 # Skrapforhandler Register
 
-Et registreringssystem for skrapforhandlere utviklet som del av et emne ved Høyskolen Kristiania.
+Et registreringssystem utviklet for skrapforhandlere.
 
 ## Om prosjektet
-Applikasjonen lar brukeren registrere, hente, oppdatere og slette informasjon om skrapforhandlere. Data lagres i en SQL-database og hentes ut via JDBC.
+Applikasjonen lar brukeren registrere, hente, oppdatere,slette informasjon om skrapforhandlere, og behodningen deres. Data lagres i en SQL-database og hentes ut via JDBC.
 
 ## Teknologier
 - Java (objektorientert)
